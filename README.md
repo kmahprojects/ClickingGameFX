@@ -8,11 +8,14 @@ This is a JavaFX-based clicking game where the player tries to click moving ball
 
 src/
  └── main/
-      └── java/
+      ├── java/
+      │    └── lab9/
+      │         └── lab9/
+      │             └── ClickingGameFX.java
+      └── resources/
            └── lab9/
                 └── lab9/
-                    └── ClickingGameFX.java
-                    └── (other Java files if any)
+                    └── hello-view.fxml
 
 *Note:* The nested `lab9/lab9` folder structure is due to original package naming.
 

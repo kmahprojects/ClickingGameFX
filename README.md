@@ -10,12 +10,14 @@ src/
  └── main/
       ├── java/
       │    └── lab9/
+      │         ├── module-info.java
       │         └── lab9/
-      │             └── ClickingGameFX.java
+      │              ├── ClickingGameFX.java
+      │              
       └── resources/
            └── lab9/
                 └── lab9/
-                    └── hello-view.fxml
+                     └── hello-view.fxml
 
 *Note:* The nested `lab9/lab9` folder structure is due to original package naming.
 
